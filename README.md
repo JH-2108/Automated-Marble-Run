@@ -1,60 +1,72 @@
-# Battery Powered Marble Run 
+# Mini Robotic Arm 
 
 A CAD design project for Hack Club Half Life Week 2. 
 
-The project is a mechanical marble lift that uses a rotating gear shaped mechanism to carry marbles from the bottom to the top of a track. A battery-powered DC geared motor drives the gear shaped lift, and a simple on/off switch controls the motor. 
+This project aims to design a compact robotic arm with motorized joints (using servo motors), allowing it to move and position small objects. The mechanical structure will be designed in CAD, with mounting points for the motors, supporting components, and electronics. 
 
-# Project Overview 
-The goal is to design a functional, compact marble run with a motorized gear shaped lift. The mechanical structure is designed in CAD, with dedicated mounting points for the motor, battery holder, and switch. 
+The goal is to combine mechanical design, basic electronics, and prototyping into a functional mini robotic arm. 
 
-# Key Features
-- Gear mechanism designed to lift marbles vertically.
-- DC geared motor to rotate the gear.
-- Battery-powered operation
-- On/off switch to start and stop the lift.
-- Custom-designed frame, track, and component mounts.
-- Design intended for 3D printing and physical assembly.
+# Project Overview
+The mini robotic arm will use multiple motorized joints to control the movement of its links. The arm will be powered by an external battery supply and controlled using physical buttons. 
 
-# How it works
-1. Place a marble at the bottom of the lift.
-2. Turn on the power swit
-3. The battery supplies power to the DC geared motor.
-4. The motor rotates the gear shaped mechanism, carrying the marble upward.
-5. The marble reaches the upper track and rolls along the marble run.
-6. Turn off the switch to stop the mechanism.
+The design will prioritize a compact structure, practical assembly, and sufficient strength to move lightweight objects. 
 
-# Electronics 
-The electronic system is intentionally simple and does not require a microcontroller or firmware. 
+# Key Features 
+- Compact robotic arm with multiple articulated joints.
+- Motorized movement for positioning the arm.
+- Custom-designed links, joints, and motor mounts.
+- Battery-powered operation.
+- Physical buttons and levers for controlling movement.
+- A gripper or end effector for handling lightweight objects.
+- Modular components designed for straightforward assembly.
 
-# Basic Electrical Connection
-The switch is connected in series with the battery supply and motor. 
+# How it works 
+1. The battery supplies power to the elctronic system.
+2. The use presses a control button or move a lever to command a movement.
+3. The control electronics active the appropriate motor.
+4. The motor moves a joint, changing the arm's position.
+5. Multiple joints work together to position the end effector.
+6. The gripper can be used to hold or release a lightweight object, if included in the final design.
 
-**Battery positive --> switch --> motor positive** 
-**Motor negative --> battery negative** 
+The final control method and number of movement axes will depend on the selected motors and electronics, attached in the [BOM](BOM.md) 
 
-The exact motor voltage, current requirements, and wiring polarity should be checked against the selected components before assembly. 
+# Mechanical Design
+The CAD assembly is planned to include the following parts: 
+- Base: Supports the arm and provides a stable mounting platform.
+- Shoulder joint: Raises and lowers the main arm link.
+- Arm links: Connect the joints and determine the arm's reach.
+- Elbow joint: Changes the angle between the arm links.
+- Wrist or end-effector mount: Supports the gripper or tool.
+- Gripper: Holds lightweight object
+- Motor mount: Secure the motors to the relevant joints.
+- Electronics mounts: Provide space for the control board, battery supply, and buttons.
 
-# CAD Designing 
-The CAD assembly includes the following planned parts: 
-- The gear lifting mechanism
-- Marble track
-- Main support frame
-- Motor mounting bracket
-- Battery-holder mount
-- Switch mounting location
-- Screw holes and fastening features
+The design will be refined to reduce unnecessary weight, prevent mechanical interference, and provide adequate clearance for moving joints. 
 
-The design will be refined to ensure that the gear rotates freely, marbles can be lifted reliably, and the motor and electrical components remained securely mounted. 
+| Component | Purpose | 
+|---|---|
+| DC geared motors | Drive the arm's joints | 
+| Control board / electronics | reads button inputs and generate motor-control signals | 
+| Battery pack | supplies electrical power | 
+| Push buttons | Provide manual movement commands| 
+| Connecting wires | connect the electronics | 
+| Power switch | Turns the system on and off | 
+
+**Safety Note**: the motor supply and control electronics must be compatible with the selected components. Motors should not be powered directly from a control board's GPIO pins. 
 
 # Project Images 
 
-**CAD Model** 
-a picture will be added here 
+**CAD Design** 
 
-**Electronic connection** 
-a picture will be added here 
+A photo will be added here 
 
-**Final finished build** 
-a picture will be added here 
+**Electronic Connection** 
+
+A photo will be added here 
+
+**Physical completed model of the robotic arm** 
+
+A photo will be added here. 
+
 
 
