@@ -19,7 +19,7 @@
 | [Push Button](https://shopee.com.my/R13-507-Push-Button-Switch-No-Locking-Round-Momentary-Red-Green-Yellow-Blue-White-Black-i.1165814930.24490344055?extraParams=%7B%22display_model_id%22%3A148974008789%2C%22model_selection_logic%22%3A3%7D) | To make the arm go up and down | 2 | $0.65 | $1.30 | [Shopee Malaysia](https://shopee.com.my/R13-507-Push-Button-Switch-No-Locking-Round-Momentary-Red-Green-Yellow-Blue-White-Black-i.1165814930.24490344055?extraParams=%7B%22display_model_id%22%3A148974008789%2C%22model_selection_logic%22%3A3%7D) |
 | [Print Legion](https://printlegion.hackclub.com) | 3D printing service for the entire CAD model | 1 | $9.00 | $9.00 | [PrintLegion](https://printlegion.hackclub.com) |
 | **Parts subtotal** | — | — | — | **$25.34** | — |
-| **Tax & shipping** | — | — | — | **$3.00** | — |
-| **Total** | — | — | — | **$28.34** | — |
+| **Tax & shipping** | — | — | — | **$2.00** | — |
+| **Total** | — | — | — | **$27.34** | — |
 
-$1.66 left of the tier's funding.
+$2.66 left of the tier's funding.
