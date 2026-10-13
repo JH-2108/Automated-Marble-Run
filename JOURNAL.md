@@ -16,7 +16,7 @@
 
 1. [2026-10-12 – Before anything, even before the week started, I immediately went on and search for projects, searching through Atlantis, common project ideas that other student make online and all. Some of these ide](#2026-10-12-before-anything-even-before-the-week-started-i-im)
 2. [2026-10-12 – An extra hour was used for downloading CAD models online, researching sizes for their physical components, completing the BOM and solving certain Fusion360 crashes.](#2026-10-12-an-extra-hour-was-used-for-downloading-cad-models)
-3. [2026-10-13 – Work session](#2026-10-13-work-session)
+3. [2026-10-13 – Designed more parts of the arm axis, a short session as I had classes to attend after the completion of some of the arms on my robotic arm.](#2026-10-13-designed-more-parts-of-the-arm-axis-a-short-sessi)
 
 ## Design
 
@@ -46,8 +46,10 @@ An extra hour was used for downloading CAD models online, researching sizes for 
 
 [Timelapse](https://lookout.hackclub.com/api/media/6eb2846d-ef7e-429c-bf1b-80bafa6584b9/video.mp4)
 
-### 2026-10-13 – Work session
+### 2026-10-13 – Designed more parts of the arm axis, a short session as I had classes to attend after the completion of some of the arms on my robotic arm.
 
 **1.12h**
+
+Designed more parts of the arm axis, a short session as I had classes to attend after the completion of some of the arms on my robotic arm.
 
 [Timelapse](https://lookout.hackclub.com/api/media/e9076a72-7c98-42f2-a607-5f160afdaefe/video.mp4)
