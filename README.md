@@ -58,7 +58,8 @@ The design will be refined to reduce unnecessary weight, prevent mechanical inte
 
 **CAD Design** 
 
-A photo will be added here 
+<img width="382" height="666" alt="image" src="https://github.com/user-attachments/assets/fc6da9f2-cf5c-4347-8910-d5592b2e0121" />
+
 
 **Electronic Connection** 
 
