@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 11.25h | 6 |
+| Week 2 | Tier 1 | 11.5h | 6 |
 
 ## Contents
 
@@ -51,7 +51,7 @@ An extra hour was used for downloading CAD models online, researching sizes for 
 
 ### 2026-10-13 – Designed more parts of the arm axis, a short session as I had classes to attend after the completion of some of the arms on my robotic arm.
 
-**1.12h**
+**1.37h**
 
 Designed more parts of the arm axis, a short session as I had classes to attend after the completion of some of the arms on my robotic arm.
 
