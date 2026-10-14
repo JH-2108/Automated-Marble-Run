@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 11.84h | 6 |
+| Week 2 | Tier 1 | 12.09h | 6 |
 
 ## Contents
 
 1. [2026-10-12 – Before anything, even before the week started, I immediately went on and search for projects, searching through Atlantis, common project ideas that other student make online and all. Some of these ide](#2026-10-12-before-anything-even-before-the-week-started-i-im)
-2. [2026-10-12 – An extra hour was used for downloading CAD models online, researching sizes for their physical components, completing the BOM and solving certain Fusion360 crashes.](#2026-10-12-an-extra-hour-was-used-for-downloading-cad-models)
+2. [2026-10-12 – An extra hour and a few minutes was used for downloading CAD models online, researching sizes for their physical components, completing the BOM and solving certain Fusion360 crashes.](#2026-10-12-an-extra-hour-and-a-few-minutes-was-used-for-down)
 3. [2026-10-13 – Designed more parts of the arm axis, a short session as I had classes to attend after the completion of some of the arms on my robotic arm.](#2026-10-13-designed-more-parts-of-the-arm-axis-a-short-sessi)
 4. [2026-10-13 – An extra 30 minutes was used on making my BOM, download CAD parts from grabCAD, and planning how the gripping part of the robotic arm should be like.](#2026-10-13-an-extra-30-minutes-was-used-on-making-my-bom-dow)
 5. [2026-10-14 – An extra 30 minutes used for quality check on the parts.](#2026-10-14-an-extra-30-minutes-used-for-quality-check-on-the)
@@ -41,11 +41,11 @@ My BOM isn't finished tho
 
 Sorry for the blurry picture!!!
 
-### 2026-10-12 – An extra hour was used for downloading CAD models online, researching sizes for their physical components, completing the BOM and solving certain Fusion360 crashes.
+### 2026-10-12 – An extra hour and a few minutes was used for downloading CAD models online, researching sizes for their physical components, completing the BOM and solving certain Fusion360 crashes.
 
-**3.02h**
+**3.27h**
 
-An extra hour was used for downloading CAD models online, researching sizes for their physical components, completing the BOM and solving certain Fusion360 crashes.
+An extra hour and a few minutes was used for downloading CAD models online, researching sizes for their physical components, completing the BOM and solving certain Fusion360 crashes.
 
 [Timelapse](https://lookout.hackclub.com/api/media/6eb2846d-ef7e-429c-bf1b-80bafa6584b9/video.mp4)
 
