@@ -20,7 +20,7 @@
 | [Print Legion](https://printlegion.hackclub.com) | 3D printing service for the entire CAD model | 1 | $9.00 | $9.00 | [PrintLegion](https://printlegion.hackclub.com) |
 | [M3 x 8mm Philips pan-head machine screws](https://shopee.com.my/M3-M4-M5-M6-M8-304-Stainless-Steel-Screws-Phillips-Countersunk-Flat-Head-Screw-TechMakers-Cross-Recessed-Phillip-Screw-i.55645224.12987786264?extraParams=%7B%22display_model_id%22%3A310357492388%2C%22model_selection_logic%22%3A3%7D) | Screw for the electronics cover to the rest of the robotic arm. | 1 | $0.50 | $0.50 | [Shopee Malaysia](https://shopee.com.my/M3-M4-M5-M6-M8-304-Stainless-Steel-Screws-Phillips-Countersunk-Flat-Head-Screw-TechMakers-Cross-Recessed-Phillip-Screw-i.55645224.12987786264?extraParams=%7B%22display_model_id%22%3A310357492388%2C%22model_selection_logic%22%3A3%7D) |
 | **Parts subtotal** | — | — | — | **$25.44** | — |
-| **Tax & shipping** | — | — | — | **$2.00** | — |
-| **Total** | — | — | — | **$27.44** | — |
+| **Tax & shipping** | — | — | — | **$2.95** | — |
+| **Total** | — | — | — | **$28.39** | — |
 
-$2.56 left of the tier's funding.
+$1.61 left of the tier's funding.
