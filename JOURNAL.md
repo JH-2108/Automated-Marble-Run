@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A mini desk sized robotic arm that can be controlled by the user to pick up certain dangerous electrical components, move small objects or as a fun desk buddy.
+> The Mini Robotic Arm is a custom-designed, 3D-printed robotic arm created using Fusion360, featuring five servo motors to control its base, 2 arm joints, gripper rotation, and gripping mechanism. It is controlled by an Aruduino Uno Rev3 CH340, with two analog joysticks for precise manual movement and two push buttons to open and close the gripper. The project combines mechanical design, electronics, and embedded programming to create a functional robotic system. Through this project, I aim to develop my skills in CAD modelling robotics and hardware integration. (Robotic Arm inspired by Tony Stark too)
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
