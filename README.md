@@ -71,4 +71,5 @@ The design will be refined to reduce unnecessary weight, prevent mechanical inte
 A photo will be added here. 
 
 
-
+# LICENSE
+This project is under a License, click [LICENSE](LICENSE) to learn more!
