@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 10.75h | 6 |
+| Week 2 | Tier 1 | 11.25h | 6 |
 
 ## Contents
 
@@ -81,7 +81,7 @@ fully completed version of the robotic arm CAD model!!!
 
 ### 2026-10-14 – In order for the entire arm to actually work, there are firmware that needs to be added into it to allow the controls to control the entire robotic arm. In order to do that, I went on wokwi.com to bui
 
-**2h**
+**2.5h**
 
 In order for the entire arm to actually work, there are firmware that needs to be added into it to allow the controls to control the entire robotic arm. In order to do that, I went on wokwi.com to build a small simulation of the entire robotic arm, with 5 servo motors, an Arduino Uno as the main MCU, 2 analog Joysticks and 2 push buttons, exactly the same way that it will be connected in my CAD file. The entire code and building of that thing took 2 hours, with most of the time spending on the firmware to make it run, debugging code issues, and requiring sketching and practical examples of how it will work with the joysticks and the buttons.
 
@@ -92,3 +92,5 @@ Below are the pictures of the stuff that I have made!
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/a3d288b60bacb75879c98759889e8433ec6be6f5130b6d929400b577519dc283.png)
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/7cc95f2b910ec0c812ec1d188aa27c6dcb5418e27fcaf5a1506962bf21d224f1.png)
+
+![Screenshot 2026-10-14 161425](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/vxL2pduJ8aoZ6ir0BeAE8MP0uXIpb6g2/78ac829a8e91ee4fba568439de8b0686341ccf562652f3b5a80d54e06428675d.png)
