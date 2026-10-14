@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 11.59h | 6 |
+| Week 2 | Tier 1 | 11.84h | 6 |
 
 ## Contents
 
@@ -81,7 +81,7 @@ fully completed version of the robotic arm CAD model!!!
 
 ### 2026-10-14 – In order for the entire arm to actually work, there are firmware that needs to be added into it to allow the controls to control the entire robotic arm. In order to do that, I went on wokwi.com to bui
 
-**2.5h**
+**2.75h**
 
 In order for the entire arm to actually work, there are firmware that needs to be added into it to allow the controls to control the entire robotic arm. In order to do that, I went on wokwi.com to build a small simulation of the entire robotic arm, with 5 servo motors, an Arduino Uno as the main MCU, 2 analog Joysticks and 2 push buttons, exactly the same way that it will be connected in my CAD file. The entire code and building of that thing took 2 hours, with most of the time spending on the firmware to make it run, debugging code issues, and requiring sketching and practical examples of how it will work with the joysticks and the buttons.
 
