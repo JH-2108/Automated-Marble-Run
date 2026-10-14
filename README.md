@@ -63,7 +63,8 @@ The design will be refined to reduce unnecessary weight, prevent mechanical inte
 
 **Electronic Connection** 
 
-A photo will be added here 
+<img width="545" height="516" alt="image" src="https://github.com/user-attachments/assets/47283dc6-8404-498c-8bd5-f25ce01cc2a2" />
+
 
 **Physical completed model of the robotic arm** 
 
