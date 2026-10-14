@@ -10,14 +10,14 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 11.5h | 6 |
+| Week 2 | Tier 1 | 11.59h | 6 |
 
 ## Contents
 
 1. [2026-10-12 – Before anything, even before the week started, I immediately went on and search for projects, searching through Atlantis, common project ideas that other student make online and all. Some of these ide](#2026-10-12-before-anything-even-before-the-week-started-i-im)
 2. [2026-10-12 – An extra hour was used for downloading CAD models online, researching sizes for their physical components, completing the BOM and solving certain Fusion360 crashes.](#2026-10-12-an-extra-hour-was-used-for-downloading-cad-models)
 3. [2026-10-13 – Designed more parts of the arm axis, a short session as I had classes to attend after the completion of some of the arms on my robotic arm.](#2026-10-13-designed-more-parts-of-the-arm-axis-a-short-sessi)
-4. [2026-10-13 – An extra 25 minutes was used on making my BOM, download CAD parts from grabCAD, and planning how the gripping part of the robotic arm should be like.](#2026-10-13-an-extra-25-minutes-was-used-on-making-my-bom-dow)
+4. [2026-10-13 – An extra 30 minutes was used on making my BOM, download CAD parts from grabCAD, and planning how the gripping part of the robotic arm should be like.](#2026-10-13-an-extra-30-minutes-was-used-on-making-my-bom-dow)
 5. [2026-10-14 – An extra 30 minutes used for quality check on the parts.](#2026-10-14-an-extra-30-minutes-used-for-quality-check-on-the)
 6. [2026-10-14 – In order for the entire arm to actually work, there are firmware that needs to be added into it to allow the controls to control the entire robotic arm. In order to do that, I went on wokwi.com to bui](#2026-10-14-in-order-for-the-entire-arm-to-actually-work-ther)
 
@@ -57,11 +57,11 @@ Designed more parts of the arm axis, a short session as I had classes to attend 
 
 [Timelapse](https://lookout.hackclub.com/api/media/e9076a72-7c98-42f2-a607-5f160afdaefe/video.mp4)
 
-### 2026-10-13 – An extra 25 minutes was used on making my BOM, download CAD parts from grabCAD, and planning how the gripping part of the robotic arm should be like.
+### 2026-10-13 – An extra 30 minutes was used on making my BOM, download CAD parts from grabCAD, and planning how the gripping part of the robotic arm should be like.
 
-**0.98h**
+**1.07h**
 
-An extra 25 minutes was used on making my BOM, download CAD parts from grabCAD, and planning how the gripping part of the robotic arm should be like.
+An extra 30 minutes was used on making my BOM, download CAD parts from grabCAD, and planning how the gripping part of the robotic arm should be like.
 
 [Timelapse](https://lookout.hackclub.com/api/media/77485b0d-cef2-440f-8117-776ffd7ac594/video.mp4)
 
